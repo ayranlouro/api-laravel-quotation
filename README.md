@@ -13,12 +13,15 @@ Este projeto teve como finalidade consumir uma API pública da cotação das moe
 
 ## O sistema consegue realizar as seguintes conversões:
 
-- BRL to USD
+    <a>BRL to USD</a>
 <img src="https://github.com/ayranlouro/api-laravel-quotation/blob/main/images/brl-usd.PNG" width="310" height="229" />
+                                                                                                                                                                                                                                   
 - USD to BRL
+<img src="https://github.com/ayranlouro/api-laravel-quotation/blob/main/images/usd-brl.PNG" width="310" height="229" />
 - BRL to EUR
+<img src="https://github.com/ayranlouro/api-laravel-quotation/blob/main/images/brl-eur.PNG" width="310" height="229" />
 - EUR to BRL
-
+<img src="https://github.com/ayranlouro/api-laravel-quotation/blob/main/images/eur-brl.PNG" width="310" height="229" />
 
 ## License
 
